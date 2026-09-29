@@ -1,0 +1,19 @@
+{
+  "wheel_id": 308,
+  "structure": "umbrella",
+  "slug": "bestsydneyrestaurants-com-103",
+  "project": "restaurants-in-sydney-comparison-5e62f7f74dcd1950260452bbbd37fe",
+  "parent_t1_ref": "bestsydneyrestaurants-com-151",
+  "node_role": "feeder",
+  "money_target": "bestsydneyrestaurants.com.au",
+  "primary_kw": "restaurants in sydney comparison",
+  "intended_url": "https://sitesau.github.io/bestsydneyrestaurants-com-103/",
+  "writeback_nonce": "4ad6145694a8ea2f",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/restaurants-in-sydney-1e7ba99e4a08efa7331a1fea7e6cb0b2cc4dba89/",
+      "anchor": "restaurants in sydney",
+      "rel": "follow"
+    }
+  ]
+}
